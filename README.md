@@ -28,3 +28,11 @@ Repository to store Events Contents.
   If you're local to the San Francisco Bay Area, we'd love to see you in-person! We'll offer coffee continuously throughout the day, a fully catered lunch, and in the evening on March 21st after the event is over, we're holding an evening reception (with drinks and snacks)...The reception offers you a chance to mingle and connect w/each other, the speakers and other Java developers from Oracle.
 
   Download [Java Developer Day agenda, content summary and driving directions](./Providers/Oracle/03-2023-Oracle-DevLive-LevelUp/Oracle_DevLive_LevelUp_Sessions_03212023.pdf)
+
+  **social posts**:
+  - Inside.Java article: <https://inside.java/2023/02/27/devlive-java-developer-day/>
+  - Registration: <https://developer.oracle.com/devlive-level-up/>
+  - Twitter: <https://twitter.com/Sharat_Chander/status/1630282844391231491?s=20>
+  - Mastodon: <https://mastodon.social/@Sharat_Chander/109938331283184205>
+  - Instagram: <https://www.instagram.com/p/CpLXKvfvDIK/?utm_source=ig_web_copy_link>
+  - LinkedIn: <https://www.linkedin.com/posts/sharatchander_oracle-devlive-level-up-java-developer-activity-7036052176024080384-Hur6?utm_source=share&utm_medium=member_desktop>
